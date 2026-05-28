@@ -4,7 +4,7 @@
   "description": "仕事・人間関係・体の状態から精神的健康をセルフチェック。専門家への相談タイミングも提案。",
   "start_url": "/mental-health-checker/",
   "display": "standalone",
-  "background_color": "#f8faf9",
+  "background_color": "#ffffff",
   "theme_color": "#7c3aed",
   "lang": "ja",
   "icons": [
